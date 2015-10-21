@@ -1,0 +1,4 @@
+<krpano>
+  <include url="skin/objectskin.xml" />
+  <preview type="grid()" />
+</krpano>
